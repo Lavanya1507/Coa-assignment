@@ -1,0 +1,27 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color: #dee2e6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.btn-primary {
+  background-color: #ce99ce;
+  border-color: #b98ab9;
+}
+
+.btn-primary:hover {
+  background-color: #cd9dcd;
+  border-color: #ba94ba;
+}
+
+/* Optional: Add spacing between elements */
+.my-5 {
+  margin-top: 5rem !important;
+  margin-bottom: 5rem !important;
+}
